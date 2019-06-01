@@ -1,0 +1,47 @@
+.b1{
+	width: 350px;
+	height: 250px;
+	position: absolute;
+	top:150px;
+	left:750px;
+	margin:auto ;
+	
+	border-style:  outset;
+	border-radius:25px;
+	webkit-box-shadow:10px 10px 5px #888888; 
+	-moz-box-shadow: 10px 10px 5px #888888; 
+	box-shadow: 10px 10px 5px #888888;
+}
+.title{
+text-align: center;
+	font-size: 30px;
+	position:relative;
+	font-style:oblique;
+	
+}
+.b2{
+	
+	position: relative;
+	top:25px;
+	text-align: center;
+}
+
+.password{
+	position: relative;
+	top: 10px;
+}
+.register{
+		position: relative;
+	height: 1.5625rem;
+
+	top:75px;
+	left:125px;
+}
+.b3{
+		position: relative;
+	height: 1.5625rem;
+
+	top:75px;
+	left:125px;
+	
+}

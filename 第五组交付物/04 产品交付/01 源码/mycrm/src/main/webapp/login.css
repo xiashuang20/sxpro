@@ -1,0 +1,58 @@
+.zt{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	background-color: red;
+}
+.title{
+	text-align: center;
+	font-size: 30px;
+	position:relative;
+	font-style:oblique;
+}
+.box1{
+	width: 350px;
+	height: 250px;
+	position: absolute;
+	top:150px;
+    left:750px;
+	margin:auto ;
+	
+	border-style:  outset;
+	border-radius:25px;
+	webkit-box-shadow:10px 10px 5px #888888; 
+    -moz-box-shadow: 10px 10px 5px #888888; 
+    box-shadow: 10px 10px 5px #888888;
+}
+.box2{
+	
+	position: relative;
+	top:25px;
+	text-align: center;
+}
+.longin{
+	position: relative;
+	height: 1.5625rem;
+}
+.password{
+	position: relative;
+	top: 10px;
+}
+.formoperate{
+	position: relative;
+	left: 70px;
+	top: 50px;
+}
+
+.box3{
+      position:relative;
+	  top:75px;
+	  left:50px;
+}
+.longin{
+ 
+}
+.register{    
+	  position: relative;
+	  left: 50px;
+ }
